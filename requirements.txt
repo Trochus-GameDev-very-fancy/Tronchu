@@ -1,0 +1,2 @@
+git+https://github.com/Tim-ats-d/Visual-dialog
+git+https://github.com/Trochus-GameDev-very-fancy/Ncurus/
